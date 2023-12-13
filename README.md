@@ -1,2 +1,2 @@
 # Learing-eBPF-Exercises
-存放Learning-eBPF书中每章Exercises部分我自己写的答案
+存放Learning-eBPF书中每章Exercises部分，我个人编写的ebpf示例答案
