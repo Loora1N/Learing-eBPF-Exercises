@@ -22,3 +22,4 @@ view it on the [O'Reilly platform](https://www.oreilly.com/library/view/learning
 ## Exercises
 
 - [chapter2](./chapter2/README.md)
+- [chapter3](./chapter3/README.md)
